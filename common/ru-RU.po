@@ -38,7 +38,7 @@ msgid "Market"
 msgstr "Рыночный"
 
 msgid "Stop loss price should be less then market ask price"
-msgstr "Цена стоп-лосса должна быть меньше рыночной цены"
+msgstr "Цена стоп лосса должна быть меньше рыночной цены"
 
 msgid "Take profit price should be more then market ask price"
 msgstr "Прибыль должна быть выше рыночной цены"
